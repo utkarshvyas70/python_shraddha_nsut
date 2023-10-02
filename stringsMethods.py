@@ -1,0 +1,11 @@
+a="utkarsh vyas"
+print(a.capitalize())
+print(a.casefold())
+# print(a.center())
+print(a.count("a"))
+print(a.encode())
+print(a.endswith("s"))
+print(a.expandtabs())
+print(a.find("h"))
+print(a.join("bro"))
+print(a.rstrip())
